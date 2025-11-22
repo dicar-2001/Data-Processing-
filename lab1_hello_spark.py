@@ -1,6 +1,6 @@
 """
 LAB 1.1 - First Spark Application
-Student: [VOTRE NOM]
+Team: Rachid Ait Ali, Oussama Madioubi, Said Mouhadabi, Chdia El Kharmoudi
 Date: 2024
 
 This application demonstrates:

@@ -1,6 +1,6 @@
 """
 LAB 2 - Data Loading and Basic Transformations
-Student: [VOTRE NOM]
+Team: Rachid Ait Ali, Oussama Madioubi, Said Mouhadabi, Chdia El Kharmoudi
 Date: 2024
 
 This application demonstrates:
