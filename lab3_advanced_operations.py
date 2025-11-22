@@ -30,8 +30,9 @@ from pyspark.sql.functions import (
     row_number, rank, dense_rank, lag, lead,
     first, last, ntile, percent_rank,
     year, month, dayofmonth, current_date, datediff,
-    udf, explode, split, array, struct
+    explode, split, array, struct
 )
+from pyspark.sql.functions import udf
 from pyspark.sql.types import IntegerType, StringType, DoubleType, StructType, StructField
 
 def main():
@@ -553,7 +554,6 @@ def main():
     print(f"  Duplicate order_ids: {duplicate_orders.count()}")
     
     print("\n13.2 - Check for Missing Values:")
-    from pyspark.sql.functions import sum as spark_sum, when, col
     null_counts = orders_df.select([
         spark_sum(when(col(c).isNull(), 1).otherwise(0)).alias(c) 
         for c in orders_df.columns
