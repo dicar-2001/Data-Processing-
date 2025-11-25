@@ -36,7 +36,7 @@ services:
     volumes:
       - spark_data:/opt/spark/work-dir
       # bind mount for labs, you will need it later hint : it s a simlink 
-      # - ./spark-data:/opt/spark/data  
+      - ./spark-data:/opt/spark/data  
     networks:
       - sparknet
     healthcheck:
@@ -64,6 +64,6 @@ services:
       SPARK_PUBLIC_DNS: "${SPARK_PUBLIC_DNS:-localhost}"
     volumes:
       - spark_data:/opt/spark/work-dir
-      # - ./spark-data:/opt/spark/data 
+      - ./spark-data:/opt/spark/data 
     networks:
       - sparknet

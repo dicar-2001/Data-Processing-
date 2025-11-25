@@ -1,0 +1,37 @@
+================================================================================
+LAB 2 - DATA QUALITY NOTES (SHORT VERSION)
+================================================================================
+
+Team: Rachid Ait Ali, Oussama Madioubi, Said Mouhadabi, Chdia El Kharmoudi
+Date: November 24, 2025
+
+================================================================================
+
+1. NULL VALUES DETECTED
+   • customers.state: 685 nulls (68.5%) — expected for non-US/Canada customers
+   • All other fields in customers, products, and orders: 0 nulls
+   • Overall data completeness: 99.3%
+
+2. DUPLICATE IDs
+   • customerNumber: 0 duplicates (1,000 distinct values)
+   • orderNumber: 0 duplicates (5,000 distinct values)
+   • Perfect key integrity across all datasets
+
+3. SKEWED DISTRIBUTIONS
+   • Customer segments: Government slightly dominant (285 customers, 28.5%)
+   • Geography: USA has most customers (270, 27% of total)
+   • USA also holds highest total credit limit: $13,566,453.56
+
+4. ORDER PATTERNS
+   • Status distribution is balanced with slight tilt to Pending (1,031, 20.6%)
+   • Payment methods evenly distributed across all 5 types
+   • Monthly orders show low seasonality (369–444 per month)
+   • Cancellation rate: 19.8% (acceptable but could be improved)
+
+5. PRODUCT PATTERNS
+   • Beauty & Health category holds most stock (3,308 units)
+   • Consistent pricing markup: MSRP averages 2.24× buyPrice
+   • Product categories fairly balanced (7–13 products each)
+   • Average order value ($2,511) suggests B2B/high-value transactions
+
+================================================================================

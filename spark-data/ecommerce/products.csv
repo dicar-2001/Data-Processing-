@@ -1,0 +1,101 @@
+productCode,productName,productCategory,quantityInStock,buyPrice,MSRP
+P0001,TasteGood Shampoo Classic,Beauty & Health,210,388.18,734.59
+P0002,BeautyPlus Oil Premium,Beauty & Health,248,205.35,589.06
+P0003,TechPro Mat Max,Sports & Outdoors,274,161.17,340.83
+P0004,WorkSmart Tent Pro,Sports & Outdoors,486,309.27,523.85
+P0005,StyleMax Keyboard Classic,Electronics,392,392.41,784.79
+P0006,TechPro Tea Ultra,Food & Beverage,80,264.14,539.68
+P0007,SportElite Sauce Classic,Food & Beverage,169,152.19,265.13
+P0008,TasteGood Makeup Pro,Beauty & Health,432,369.33,1074.76
+P0009,TasteGood Smartphone Max,Electronics,144,204.99,456.58
+P0010,SportElite Novel Pro,Books,139,319.46,808.91
+P0011,BeautyPlus Hat Premium,Clothing,441,74.28,193.93
+P0012,StyleMax Jeans Deluxe,Clothing,10,257.21,657.23
+P0013,StyleMax Tablet Ultra,Electronics,425,370.58,996.46
+P0014,PlayFun Calculator Premium,Office Supplies,140,218.32,570.96
+P0015,StyleMax Filter Standard,Automotive,192,139.49,346.5
+P0016,StyleMax Guide Premium,Books,247,118.9,250.82
+P0017,BeautyPlus Comic Deluxe,Books,487,18.43,41.39
+P0018,AutoCare Doll Deluxe,Toys & Games,394,119.79,354.91
+P0019,PlayFun Backpack Premium,Sports & Outdoors,170,243.64,405.28
+P0020,StyleMax Chair Standard,Home & Garden,303,284.83,515.98
+P0021,HomeComfort Tent Ultra,Sports & Outdoors,30,207.57,572.29
+P0022,BeautyPlus Wiper Max,Automotive,18,162.61,326.33
+P0023,TechPro Plush Standard,Toys & Games,279,141.39,256.46
+P0024,SportElite Light Plus,Automotive,471,167.7,429.87
+P0025,StyleMax Hat Max,Clothing,266,194.09,511.49
+P0026,SportElite Dress Pro,Clothing,453,224.42,663.81
+P0027,HomeComfort Oil Max,Beauty & Health,383,316.82,724.53
+P0028,BeautyPlus Sauce Premium,Food & Beverage,368,14.54,24.37
+P0029,WorkSmart Cookbook Max,Books,72,445.88,1045.91
+P0030,WorkSmart Comic Premium,Books,241,476.48,980.06
+P0031,PlayFun Filter Max,Automotive,84,464.27,1197.91
+P0032,TechPro Spice Standard,Food & Beverage,34,165.67,293.04
+P0033,SportElite Camera Standard,Electronics,169,107.64,176.61
+P0034,WorkSmart T-Shirt Classic,Clothing,325,239.66,415.73
+P0035,PlayFun Juice Premium,Food & Beverage,145,318.12,919.95
+P0036,PlayFun Soap Premium,Beauty & Health,287,316.01,665.17
+P0037,StyleMax Juice Ultra,Food & Beverage,143,300.39,496.98
+P0038,WorkSmart Bed Deluxe,Home & Garden,169,60.14,162.1
+P0039,WorkSmart Calculator Max,Office Supplies,1,337.56,746.04
+P0040,StyleMax Racket Max,Sports & Outdoors,84,465.48,1127.57
+P0041,PlayFun Tire Max,Automotive,261,48.12,142.18
+P0042,AutoCare Mirror Plus,Automotive,123,170.27,383.2
+P0043,BeautyPlus Sauce Classic,Food & Beverage,159,389.22,996.16
+P0044,TasteGood Candy Ultra,Food & Beverage,489,48.32,116.36
+P0045,HomeComfort Bed Standard,Home & Garden,355,421.54,986.71
+P0046,TasteGood Textbook Max,Books,12,450.88,1117.34
+P0047,PlayFun Robot Ultra,Toys & Games,195,366.96,668.11
+P0048,TechPro Car Ultra,Toys & Games,2,105.96,216.32
+P0049,PlayFun Calculator Premium,Office Supplies,257,56.11,115.21
+P0050,TechPro Camera Deluxe,Electronics,22,327.14,805.59
+P0051,TechPro Biography Standard,Books,311,485.86,1328.82
+P0052,HomeComfort Cover Plus,Automotive,19,241.99,680.57
+P0053,WorkSmart Puzzle Max,Toys & Games,445,448.19,775.27
+P0054,BeautyPlus Chair Standard,Home & Garden,326,418.69,703.04
+P0055,StyleMax Monitor Ultra,Electronics,335,430.37,824.68
+P0056,PlayFun Pen Classic,Office Supplies,459,420.26,1165.11
+P0057,TasteGood Plant Deluxe,Home & Garden,428,16.94,42.29
+P0058,SportElite Smartphone Premium,Electronics,42,414.27,933.06
+P0059,TechPro Curtain Deluxe,Home & Garden,88,145.01,260.73
+P0060,ReadWell Camera Standard,Electronics,290,284.67,477.27
+P0061,StyleMax Scarf Plus,Clothing,95,66.97,109.55
+P0062,HomeComfort Puzzle Classic,Toys & Games,235,396.48,724.09
+P0063,ReadWell Jacket Ultra,Clothing,382,420.28,1035.35
+P0064,TechPro Bed Premium,Home & Garden,71,195.86,378.13
+P0065,BeautyPlus Tape Ultra,Office Supplies,90,120.72,215.17
+P0066,AutoCare Biography Classic,Books,178,139.63,312.05
+P0067,HomeComfort Spice Deluxe,Food & Beverage,79,28.0,77.06
+P0068,BeautyPlus Juice Premium,Food & Beverage,106,179.99,488.92
+P0069,StyleMax LEGO Ultra,Toys & Games,239,261.5,474.91
+P0070,StyleMax Novel Standard,Books,71,263.34,644.31
+P0071,PlayFun Light Pro,Automotive,165,286.25,712.03
+P0072,TechPro Shoes Classic,Clothing,331,87.79,194.3
+P0073,PlayFun Dress Max,Clothing,385,160.08,352.22
+P0074,WorkSmart Mouse Deluxe,Electronics,374,233.66,552.36
+P0075,SportElite Oil Classic,Beauty & Health,247,133.76,275.52
+P0076,TechPro Soap Plus,Beauty & Health,215,485.68,1367.75
+P0077,WorkSmart Soap Max,Beauty & Health,472,206.37,318.39
+P0078,WorkSmart Comic Classic,Books,403,378.41,641.34
+P0079,ReadWell Smartphone Classic,Electronics,234,398.5,682.31
+P0080,AutoCare Perfume Max,Beauty & Health,154,10.41,17.92
+P0081,HomeComfort Textbook Plus,Books,370,125.73,226.94
+P0082,TasteGood Ball Standard,Sports & Outdoors,81,424.38,874.81
+P0083,AutoCare Doll Ultra,Toys & Games,467,279.42,584.29
+P0084,AutoCare Mirror Plus,Automotive,198,356.05,941.6
+P0085,HomeComfort Plant Premium,Home & Garden,419,205.94,409.96
+P0086,TasteGood Cream Pro,Beauty & Health,113,45.11,100.71
+P0087,SportElite Stapler Pro,Office Supplies,312,190.87,383.61
+P0088,StyleMax Paper Ultra,Office Supplies,22,326.33,557.08
+P0089,BeautyPlus Weights Max,Sports & Outdoors,217,55.5,115.22
+P0090,ReadWell Bed Pro,Home & Garden,133,199.54,545.13
+P0091,HomeComfort Perfume Plus,Beauty & Health,238,205.13,466.88
+P0092,StyleMax Shoes Pro,Clothing,82,331.38,698.12
+P0093,WorkSmart Car Pro,Toys & Games,248,258.42,653.66
+P0094,TechPro Cream Plus,Beauty & Health,309,158.45,299.15
+P0095,AutoCare Light Classic,Automotive,57,358.89,992.78
+P0096,TasteGood Rug Plus,Home & Garden,76,382.21,1072.28
+P0097,WorkSmart Monitor Standard,Electronics,222,136.34,309.81
+P0098,ReadWell Mouse Standard,Electronics,187,29.52,82.71
+P0099,ReadWell Monitor Pro,Electronics,277,218.59,549.21
+P0100,ReadWell Magazine Classic,Books,152,184.87,282.16
